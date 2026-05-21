@@ -36,6 +36,29 @@
       "api": "https://17426.kstore.space/lib/drpy2.min.js",
       "ext": "./lib/暗黑4k奇迹.js"
     },
+	      {
+      "key": "小哩弹幕",
+      "name": "🍎哔哩🔹4K",
+      "type": 3,
+      "api": "csp_Bilimd",
+      "jar": "./a/bl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "cookie": "./a/blc.png"
+      },
+      "timeout": 10
+    },
+	      {
+      "key": "EmbyJS",
+      "name": "🍎EMBY🔹4K",
+      "type": 3,
+      "api": "./a/EMBY.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 	    {
       "key": "热播影视",
       "name": "🍎热播🔹APP",
