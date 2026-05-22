@@ -7,8 +7,12 @@
             "key": "推特",
             "name": "🔞传播后果自负！ 点我换源！",
             "type": 3,
-              "api": "csp_XBPQ",
-            "api": "./js/推特.py"
+            "api": "./js/推特.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
         },
             {
             "key": "三上悠亚🔥",
