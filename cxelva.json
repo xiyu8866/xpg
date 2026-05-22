@@ -51,15 +51,6 @@
       "timeout": 10
     },
 	      {
-      "key": "EmbyJS",
-      "name": "🍎EMBY🔹4K",
-      "type": 3,
-      "api": "./a/EMBY.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-	      {
       "name": "🍎追忆🔹4K",
       "key": "NewNoxZy",
       "type": 3,
