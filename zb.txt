@@ -1,10 +1,14 @@
 🍎小苹果央视TV,#genre#
 CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
+CCTV2,http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
 CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
+CCTV4,http://115.190.247.176:1111/631780421
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8
 CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8
 CCTV6,http://183.129.255.66:8480/hls/7/index.m3u8
+CCTV7,http://221.7.49.226:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://183.129.255.66:8480/hls/8/index.m3u8
 CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8
 CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8
@@ -20,7 +24,7 @@ CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8
 CCTV1,http://115.190.247.176:1111/608807420
 CCTV2,http://115.190.247.176:1111/631780532
 CCTV3,http://115.190.247.176:1111/624878271
-CCTV4,http://115.190.247.176:1111/631780421
+
 CCTV5,http://115.190.247.176:1111/641886683
 CCTV5+,http://115.190.247.176:1111/641886773
 CCTV6,http://115.190.247.176:1111/624878396
@@ -36,25 +40,12 @@ CCTV15,http://115.190.247.176:1111/673168223
 CCTV17,http://115.190.247.176:1111/673168256
 
 
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
-
-
 CCTV1,http://221.7.49.226:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV3,http://221.7.49.226:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://221.7.49.226:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://221.7.49.226:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://221.7.49.226:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV8,http://221.7.49.226:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://221.7.49.226:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://221.7.49.226:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -67,7 +58,7 @@ CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
 CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
