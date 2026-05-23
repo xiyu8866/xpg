@@ -78,6 +78,14 @@
         "url": "http://v.rbotv.cn"
       }
     },
+	          {
+            "key": "cat_耐看点播",
+            "name": "🍎耐看🔹点播",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "./js/cat_耐看点播.js",
+            "changeable": 1
+        },
     {
       "key": "瓜子影视",
       "name": "🍎瓜子🔹影视",
