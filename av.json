@@ -154,6 +154,14 @@
             "ext": "./js/菜鸟资源.json"
         },
             {
+            "key": "葡萄5区",
+            "name": "🔞葡萄5区",
+            "type": 3,
+            "api": "./js/葡萄5区.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+            {
             "key": "乱姐黑料",
             "name": "🔞乱姐黑料",
             "type": 3,
