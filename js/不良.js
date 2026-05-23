@@ -400,7 +400,7 @@ async function detail(id) {
         html.match(/<p class="data">\s*主演：([\s\S]*?)<\/p>/)?.[1]?.matchAll(/<a [^>]*>([^<]+)<\/a>/g) || []).map(m => m[1]).join(' / ') || '',
       vod_director: Array.from(
         html.match(/<p class="data">\s*导演：([\s\S]*?)<\/p>/)?.[1]?.matchAll(/<a [^>]*>([^<]+)<\/a>/g) || []).map(m => m[1]).join(' / ') || '',
-      'vod_content': "菜佬湿📢:本资源来源于网络🚓侵权请联系删除👉" + (html.match(/<meta name="description" content="([\s\S]*?)/) || ["", ""])[1].replace(/<.*?>/g, "").replace("特别提醒如果您对影片有自己的看法请留言弹幕评论。", ""),
+      'vod_content': "📢:本资源来源于网络🚓侵权请联系删除👉" + (html.match(/<meta name="description" content="([\s\S]*?)/) || ["", ""])[1].replace(/<.*?>/g, "").replace("特别提醒如果您对影片有自己的看法请留言弹幕评论。", ""),
       vod_play_from: "不良AV专线",
       vod_play_url: playUrl
     }]
