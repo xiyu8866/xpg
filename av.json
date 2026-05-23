@@ -123,6 +123,16 @@
             "playerType": 2
         },
             {
+            "key": "一个区py",
+            "name": "🔞一区AV",
+            "type": 3,
+            "api": "./js/一个区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+            {
             "key": "菜佬湿倾情奉献",
             "name": "🔞特供资源",
             "type": 3,
