@@ -215,6 +215,26 @@
         "searchable":1,
         "filterable":1
         },
+            {
+            "key": "九九逍遥",
+            "name": "🔞各国AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://www.9y9r.com/so-show/36-----------.html",
+                "数组": "lazyload\"&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-right\">&&</",
+                "链接": "href=\"&&\"",
+                "简介": "【友情提醒：请不要相信视频中的广告，以免上当受骗！】",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "http://www.9y9r.com/so-show/36-{cateId}-{by}---------{year}.html",
+                "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+            }
+        },
     {
             "key": "爱看伦理",
             "name": "🔞爱看伦理",
