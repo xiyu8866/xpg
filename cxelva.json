@@ -108,13 +108,12 @@
       "api": "./lib/jd4k.py",
       "ext": "https://dmc.yy-fun.cc/feiapp"
     },
-	      {
-      "key": "皮皮虾",
-      "name": "🍎皮虾🔹影视",
-      "type": 3,
-      "api": "./lib/ppx.py",
-      "ext": "http://154.94.224.98:8762"
-    },
+        {
+            "key": "界影视",
+            "name": "🍎界影🔹影视",
+            "type": 3,
+            "api": "./js/界影视.js"
+        },
 	      {
       "key": "fy",
       "name": "🍎枫叶🔹影视",
