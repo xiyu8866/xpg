@@ -145,6 +145,7 @@ CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205.m3u8
 江西卫视,http://60.10.139.113:8801/hls/37/index.m3u8
 河南卫视,http://60.10.139.113:8801/hls/32/index.m3u8
 河南卫视,http://58.17.89.7:8081/hls/57/index.m3u8
+陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
 陕西卫视,http://115.190.247.176:1111/738910838
 湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8
 湖北卫视,http://115.190.247.176:1111/947472496
@@ -170,7 +171,6 @@ CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205.m3u8
 贵州卫视,http://60.10.139.113:8801/hls/36/index.m3u8
 四川卫视,http://60.10.139.113:8801/hls/30/index.m3u8
 广西卫视,http://60.10.139.113:8801/hls/52/index.m3u8
-陕西卫视,http://60.10.139.113:8801/hls/53/index.m3u8
 内蒙古卫视,http://60.10.139.113:8801/hls/55/index.m3u8
 青海卫视,http://60.10.139.113:8801/hls/56/index.m3u8
 宁夏卫视,http://60.10.139.113:8801/hls/57/index.m3u8
@@ -186,103 +186,43 @@ CGTN,http://bobohome.ignorelist.com:20247/migu?id=609017205.m3u8
 CETV-1高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
 
-🍎港澳新闻,#genre#
-鳳凰衛視資訊台,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-鳳凰衛視中文台,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-鳳凰衛視香港台,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
-鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
-鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
-Now新闻,http://cdn.163189.xyz/163189/now
-翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-翡翠台 http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-无线新闻,https://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-HOY 77,http://cdn.163189.xyz/163189/hoy
-VIUTV,https://cdn.163189.xyz/163189/viu
-VIUTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-欧洲华文,http://oh.eztv.vip/live/eztv1.m3u8
+🍎港澳臺频道,#genre#
+无线新闻,http://cdn6.163189.xyz/163189/wxxw
+香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
+东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森综合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空间,http://cdn6.163189.xyz/163189/8tv
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+澳门卫星,http://cdn6.163189.xyz/163189/as
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门Macau,https://cdn6.163189.xyz/163189/as
-澳视澳门,https://cdn6.163189.xyz/163189/asam
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
-无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
-香港电台,https://cdn6.163189.xyz/163189/tvbxh
+澳视澳门,http://cdn6.163189.xyz/163189/asam
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
+唐NTD,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 🍎讲道GOODTV,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 🍎讲道GOODTV,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7-zaxbyAc6MQqYmrpUDLEqzWNnF7SOC89I7zwap6gbfSqNfa9eBbpd5wxyEJJkfjsPhFkQ1h39XbTYm3gjCBzchVpRcsNGU1r0ud8Tz4koZCGcmP2b6fkrevEXXcwMRtB-JzaXAfVMpL5U63pvExxqSNaJwwXmHlC33XRrfUGtZYyYGaKEHS0hqbFvm19u7kg.m3u8?u=1756878715
 🍎讲道GOOD2,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 🍎讲道GOOD2http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2P5kyoQQNzx04LvwK_lGXeAX5bbBkFHqTs-
-
-
-🍎港澳頻道,#genre#
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),http://o11.163189.xyz/stream/live/jade/
-TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-VIUTV,https://cdn10.163189.xyz/stream/163189/viu/
-VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
-娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
-功夫台,https://cdn6.163189.xyz/163189/yzwx
-8TV,http://cdn6.163189.xyz/163189/8tv
-Channel 5,http://cdn6.163189.xyz/163189/ch5
-Channel 8,http://cdn6.163189.xyz/163189/ch8
-
-
-🍎臺灣頻道,#genre#
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55
-華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
-東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
-緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
-龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
-ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
-梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
-Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
-MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
-金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
-東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
-八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
-韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
-娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
-綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 
 
@@ -417,6 +357,15 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
 宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 
+🇲🇾马来西亚直播,#genre#
+APETITO,https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+AURA,https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+FITRAH,https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+LEAD,https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+ROLL,https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+RTM Asean,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 🌏全球台直播,#genre#
 🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
