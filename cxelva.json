@@ -712,6 +712,18 @@
         "type": "list"
       }
     },
+	          {
+            "key": "TVTⅤ2影视",
+            "name": "🍎TV🔹影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$movie#剧集$tv#综艺$variety#动漫$anime#短剧$duanju#",
+                "分类url": "https://www.tvtv2.com/v_show/{cateId}-{catePg}.html"
+            }
+        },
 	  {
             "key": "乐乐",
             "name": "🍎乐乐🔹影视",
