@@ -1500,58 +1500,6 @@
       "api": "./lib/哔哩直播.py"
     },
     {
-      "key": "阿里云盘",
-      "name": "🍎阿里🔹云盘",
-      "type": 3,
-      "api": "csp_PanAli",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "夸克网盘",
-      "name": "🍎夸克🔹网盘",
-      "type": 3,
-      "api": "csp_PanQuark",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "UC网盘",
-      "name": "🍎UC🔹网盘",
-      "type": 3,
-      "api": "csp_PanUC",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "百度网盘",
-      "name": "🍎百度🔹网盘",
-      "type": 3,
-      "api": "csp_PanBaidu",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "push_agent1",
       "name": "🍎别相信广告",
       "type": 3,
