@@ -813,55 +813,6 @@
       }
     },
     {
-      "key": "80S",
-      "name": "🍎80S🔹磁力",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "New6v",
-      "name": "🍎New6V🔹磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "美剧迷",
-      "name": "🍎美剧迷🔹磁力",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "迅雷吧",
-      "name": "🍎迅雷吧🔹磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xunlei8.me"
-    },
-    {
-      "key": "电影港",
-      "name": "🍎影港🔹磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/电影港.json"
-    },
-    {
       "key": "电影天堂",
       "name": "🍎天堂🔹磁力",
       "type": 3,
