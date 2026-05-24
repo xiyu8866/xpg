@@ -59,6 +59,18 @@
       },
       "timeout": 10
     },
+	          {
+            "key": "csp_栖遥",
+            "name": "🍎栖遥🔹4K",
+            "type": 3,
+            "api": "./a/AppGet_2.js",
+            "ext": {
+                "host": "http://110.42.67.221:9002/",
+                "key": "FTgP4Gq8zPiqbt7M",
+                "类型": "APP",
+                "api": 2
+            }
+        },
 	      {
       "name": "🍎追忆🔹4K",
       "key": "NewNoxZy",
