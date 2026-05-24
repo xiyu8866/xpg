@@ -33,14 +33,14 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 1,
-      "api": "https://17426.kstore.space/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/暗黑4k奇迹.js"
     },
 	          {
             "key": "hajim-芒果备",
             "name": "🍎小忙🔹4K",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./a/小忙.js"
