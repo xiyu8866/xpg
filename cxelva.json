@@ -476,32 +476,6 @@
       }
     },
     {
-      "key": "小鹿",
-      "name": "🍎小鹿🔹APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://xiaolu.pwwhu.cn",
-        "dataKey": "x5Bep6Q78VCeYnPS",
-        "dataIv": "x5Bep6Q78VCeYnPS"
-      }
-    },
-    {
-      "key": "猎豹",
-      "name": "🍎猎豹🔹APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://444421.xyz",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025"
-      }
-    },
-    {
       "key": "映画",
       "name": "🍎映画🔹APP",
       "type": 3,
@@ -565,13 +539,6 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "云播影视",
-      "name": "🍎云播🔹影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.tvyb03.com"
     },
 	   {
       "key": "新韩剧网",
