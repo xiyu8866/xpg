@@ -71,6 +71,33 @@
                 "api": 2
             }
         },
+	          {
+            "key": "星空",
+            "name": "🍎星空🔹4K",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://xk99.xkgzs.xyz",
+                "dataKey": "106jkcdnkldzckjk",
+                "dataIv": "106jkcdnkldzckjk"
+            }
+        },
+	          {
+            "key": "葫芦get",
+            "name": "🍎葫芦🔹4K",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
+                "dataKey": "8R33VQSxzmCaHpEX",
+                "dataIv": "8R33VQSxzmCaHpEX"
+            }
+        },
 	      {
       "name": "🍎追忆🔹4K",
       "key": "NewNoxZy",
