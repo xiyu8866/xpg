@@ -240,7 +240,7 @@ var rule = {
         } else {
             print(input + "暂无片源");
         }
-        VOD.vod_play_from = "芒果TV(拒绝买卖!请去12315举报)";
+        VOD.vod_play_from = "芒果TV";
         VOD.vod_play_url = d.map(function(it) {
             return it.title + "$" + it.url;
         }).join("#");
