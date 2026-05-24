@@ -616,6 +616,23 @@
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
+	      {
+      "key": "夕云",
+      "name": "🍎夕云🔹影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "站名": "夕云影视",
+        "主页url": "https://www.xyxy.live/",
+        "搜索Url": "https://www.xyxy.live/index.php/vod/search.html?wd={wd}",
+        "分类url": "https://www.xyxy.live/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#电视剧$39#综艺$47#动漫$46"
+      }
+    },
 	   {
       "key": "茶杯狐",
       "name": "🍎茶杯🔹影视",
