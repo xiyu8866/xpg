@@ -93,7 +93,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "site": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
+                "site": "./lib/maccos_config.txt",
                 "dataKey": "8R33VQSxzmCaHpEX",
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
