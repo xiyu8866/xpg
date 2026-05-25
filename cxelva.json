@@ -1790,11 +1790,6 @@
         }
       }
     },
-{
-      "name": "🍎小苹果影视TV",
-      "type": 1,
-      "url": "http://php.xuan666.icu/高兴/api.php?url="
-    },
         {
       "name": "🍎融融TV",
       "type": 0,
@@ -1806,12 +1801,12 @@
       }
     },
         {
-      "name": "🍎融融奇艺TV",
+      "name": "🍎小苹果影视TV",
       "type": 0,
       "url": "https://jx.2s0.cn/player/?url="
     },
         {
-      "name": "🍎融融奇艺TV1",
+      "name": "🍎融融奇艺TV",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
