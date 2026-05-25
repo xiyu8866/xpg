@@ -1800,6 +1800,11 @@
         }
       }
     },
+	  {
+      "name": "🍎优酷TV",
+      "type": 0,
+      "url": "https://video.isyour.love/player/getplayer?url="
+    },
         {
       "name": "🍎小苹果影视TV",
       "type": 0,
