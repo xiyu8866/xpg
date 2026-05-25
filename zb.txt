@@ -215,51 +215,6 @@ CETV-1高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 🍎讲道GOOD2,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 🍎讲道GOOD2http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2P5kyoQQNzx04LvwK_lGXeAX5bbBkFHqTs-
 
-香港,#genre#
-翡翠台,tvbus://4o4o5rSp17NLWfo4rgWTuCy6yE7MuZ9vP2egQYwhGmkkz6UVFQ
-翡翠台_DYG,tvbus://4qTbsSdGFFtmrmBxqcmizZHrEZz7WJ4N7CNVC24HorG5wRtMQs
-翡翠台_線路二,tvbus://4Sg7Qc6R2LwkTPsDwdXSSNMyszHuu2ASwJERzCHtUF9FquRE7L
-无线新闻,tvbus://3RHtKvQyHEw2x1BVhUFTujMsnDmU7huVcDgwQ7vDeqo1pwSCz1
-无线新闻_線路二,tvbus://4S3EZ9WMqCJA5fbxibunYf9jamBxXy9PQ1yos3Ub4N2wEhLfUs
-明珠台,tvbus://35Be5s9sqvwWVnaS96yReKdBjqWp9NXGrD2WXhcLPhCtFjrYqK
-明珠台_DYG,tvbus://3Qq4jyW3x3tqiwthY8V5dmpTexUPEttE13D2wwoKEouCyvJH1B
-明珠台_線路二,tvbus://3myPMuZvtcQVVDwSv3ngrcweqye8oCdWtkgEoGVmYZd7uaJDkJ
-viutv,tvbus://3KXsGDeDWtgjMhNVnXBeqMFX63geG4wA3NYJHrav2jvUjYS4a6
-viutv_線路二,tvbus://38rJASUqgXUq4PUbXaFUbmBoWLwAWqKnWBrHnUM4wNVRP8Ec1b
-TVB PLUS,tvbus://32reiEJAFMpsvapS1oSpn9mR4tFhszxKKuA8wfnzScCNR44g4y
-TVB Plus_DYG,tvbus://4gwHfekzSiHKG3eduUESZufUAS5L2uukLQpc64tygx95KKxa1Q
-TVB Plus_線路二,tvbus://49UEzrxAf47xouEEqh3Mz3SvhBvZ8r7NMBCGiWVhrLTvwkcnRN
-TVB星河,tvbus://4FLjNKMoYGG2TimufbPfWfrfiauBs4RprtPXoAwfzdyWkCixqU
-RTHK32,tvbus://2zBDdNqu9ipFojMe77y9aByKZrzPUrhZTx7XoZMn4LhJkoEuCu
-凤凰资讯,tvbus://3dM7Vzszz2eqy4aov5B2rbGX83FgP89ZSgjv6gxeC31aFfPw8A
-凤凰卫视,tvbus://3ZDjgMpcTzZDAJeAL2aSfYEPNf3BGAiFk1a37gC8CjrMdqPkrR
-凤凰香港_線路一,tvbus://4UF7BHWoKG31eDPE3xQqqXueXZcdU9CvBX2vxpDVBHH74ARA77
-凤凰香港_線路二,tvbus://34xhktsLGj9jMvwUHBFgxQ7p9PMwDTNS4TsxMUfn3uK5aApqYk
-TVB经典台,tvbus://4QteUA8jiQV7NEPdq1m2fa7mEhsENbwEPaaNvHwennRWnW4zmg
-RTHK31,tvbus://4oCKiHDbHDjNhr5xgD8egW4djUVYKa62AZs3WhLPpFaJXH3EQB
-香港开电视_線路一,tvbus://49ZtnuaecUixhdTa66nRs4j27BDkMo2L6hFe44Bm9GhygfUybq
-香港开电视_線路二,tvbus://3kPeiSuaRkx1tfEJKSBmKstmrEysQTAUjbeQ3H13U7fgVdthYK
-VIU6,tvbus://4AjiVx1pGJaEHvzmvK9KghpYYjZPtP3GodzQf4MzTYF25sY33X
-VIU6_線路二,tvbus://4UCLMzHBN9TBBK4gxuEm99kWA5rHdBd9PGFMreSW4QhnBeYbMK
-阳光卫视,tvbus://4meVyCsMsxkShJ65VkMHkRGDpyDRdFR5MgwFYMdzsSKLZVuNX3
-凤凰电影,tvbus://3QmShobC3vCLfFfoaZNtmX5eTMGtheKgwrdWg5YGy1itrUWKFh
-NOW新闻,tvbus://4WJd2kZvsdRGQpuCCNPTz87rGLC8xggEb3KnTsvske57GSHmCT
-NOW直播,tvbus://4iPw4yqt8qP44YYHAdbPxQoaWozU8ZYLJ1jzMGk8aEuKi48ERD
-有線18台,tvbus://4NyQ7Zu3G38Z8w574Tso2ENbPsdwVRdEfKabzsuqJpW1zoDD7b
-开电视资讯台,tvbus://2xEG9r77QrFeiVFt5XD69eCpyLFTX8T5UtKK5WXofjA6asjVdq
-开电视资讯台_線路二,tvbus://3rMHbBnu4Kocd4G3a5pty3Jtjmh5dQioMVBkw6keqvXCQfKu98
-HKIBC,tvbus://37YnBQRYoKy89ff2B87xntyCcT5275bHx6euBVZgFHDv4L34m3
-HKIBC_線路二,tvbus://41CCteNjeJCTnsFDLHAaLNjWQTDA5kSXzZkaP49fGKz36KTCow
-TVB娱乐新闻,tvbus://4Upy3tZzrL5s1CRciMbG4A1xFaekBuEQXXZSoKpUa5crVK8TaC
-香港衛視,tvbus://3Jo2RYV3WnJFRsGV2ExLyFHB1aRFrug2PrESzF8UTofXEn72v6
-澳門衛星電視,tvbus://3wgEMnTXhcMC8b9sTPXTKKdigkzd4uHUMVtwrvxHxEpfscQxdF
-Now Sports 英超1台,tvbus://4GcpEBNYcow8sTW279CUBrn5nXhQc7Gyt4rgHwvaUhUdmyrutR
-Now Sports 英超2台,tvbus://4Fd497utFTQptTUydXKTbqvbbQZeQkQNtL292bKLm4KDASTdWi
-Now Sports 英超3台,tvbus://3cpCLWqY2YVYE9swPhPa8dxE4iCZGoLZ2tyzrQ6x9UDaS1jQeE
-Now Sports 英超4台,tvbus://3nyf3f17tL1bjN6qsNnAg5jMRpYXqXcQbmLRqCTEuGDM7zVmRd
-Now Sports 英超5台,tvbus://4smts53S2sa8wfrBLNg51NSJer9AwwirZYqaLGk5bTqoUfACZf
-Now Sports 英超6台,tvbus://3b5vPFYYXMRmNzBTJnXA6k6911vSe33xhHvnGjhYXxKaYWJWD8
-Now Sports 英超7台,tvbus://342CFAysBnT8NVY79Wc2RKdzxZAyEYm2kzx7eNZ1obR6EJfYsS
 
 ✨浙江地方频道,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
