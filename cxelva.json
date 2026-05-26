@@ -110,13 +110,6 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
-	      {
-      "key": "小哩",
-      "name": "🍎小哩🔹APP",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./a/小哩.png"
-    },
 	    {
       "key": "热播影视",
       "name": "🍎热播🔹APP",
