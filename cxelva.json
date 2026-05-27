@@ -110,6 +110,12 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
+	      {
+      "key": "8j",
+      "name": "🍎落云🔹APP",
+      "type": 3,
+      "api": "./py/8j.py"
+    },
 	    {
       "key": "热播影视",
       "name": "🍎热播🔹APP",
