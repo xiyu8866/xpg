@@ -110,12 +110,6 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
-	      {
-      "key": "8j",
-      "name": "🍎落云🔹APP",
-      "type": 3,
-      "api": "./py/8j.py"
-    },
 	    {
       "key": "热播影视",
       "name": "🍎热播🔹APP",
@@ -180,6 +174,17 @@
       "name": "🍎三秋🔹APP",
       "type": 3,
       "api": "csp_App3Q"
+    },
+	      {
+      "key": "云播",
+      "name": "🍎云播🔹APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "http://app.hktvyb.cc"
+      }
     },
 	      {
       "key": "橙子99",
