@@ -37,20 +37,6 @@
       "ext": "./lib/暗黑4k奇迹.js"
     },
 	      {
-      "key": "小哩弹幕",
-      "name": "🍎哔哩🔹4K",
-      "type": 3,
-      "api": "csp_Bilimd",
-      "jar": "./a/bl.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cookie": "./a/blc.png"
-      },
-      "timeout": 10
-    },
-	      {
       "key": "四叶草",
       "name": "🍎幸运🔹4K",
       "type": 3,
