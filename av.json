@@ -347,6 +347,7 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.js",
       "ext": "./lib/zbzdb.json"
     },
+         {"key": "ddzy", "name": "🔞滴滴", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
     {
       "key":"jingpinx.com","name":"🔞精品-翻墙","type":1,"api":"https://www.jingpinx.com//api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
    {
@@ -407,7 +408,7 @@
     {"key": "3影视","name":"🔞丝丝-翻墙","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "诚诚影视","name":"🔞诚诚-翻墙","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"http://lbapiby.com/api.php/provide/vod/"},
     {"key": "ss19","name": "🔞易易-翻墙","type":1,"api": "https://api.yikanapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-    {"key":"didizy.com","name":"🔞滴滴-翻墙","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+  
     {"key":"地地资源","name":"🔞地地-翻墙","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":0},
     {"key":"www.caoliuzyw.com","name":"🔞榴榴-翻墙","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
     {"key": "1影视","name": "🔞百百-翻墙","type":1,"api": "https://caiji.putaozyw.net/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
