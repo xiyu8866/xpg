@@ -6,28 +6,10 @@
      {
        "key": "hlxzy", 
        "name": "🔞传播后果自负！ 视频没有弹出来，点我换源！", 
-       "type": 1, 
-       "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
-            "categories": [
-              "自拍偷拍",
-              "国产传媒",
-              "探花系列",
-              "素人搭讪",
-              "抖阴视频"
-              "花门事件", 
-              "中文字幕",
-              "日本有码",
-              "日本无码",
-              "AV解说",
-              "cosplay",
-              "黑丝诱惑",
-              "SWAG",
-              "激情动漫",
-                "网红主播",
-              "三级伦理",
-              "VR视角",
-            ]
-        },
+       "type":1,
+       "api":"https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+       "searchable":1,"filterable":1
+     },
                 {
             "key": "✨高清SEX国产",
             "name": "🔞SEX国产",
