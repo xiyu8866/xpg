@@ -102,6 +102,17 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
+	   {
+            "key": "剧迷",
+            "name": "🍎剧迷🔹4K",
+            "type": 3,
+            "api": "./py/剧迷.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playable": 1
+        },
 	      {
       "key": "电影先生",
       "name": "🍎电影🔹APP",
