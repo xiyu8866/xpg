@@ -24,14 +24,6 @@
         "ratio": 1.597
       }
     },
-	  {
-      "key": "官源",
-      "name": "🍎官采🔹资源",
-      "type": 1,
-      "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
 	      {
       "key": "新腾极4k",
       "name": "🍎融融🔹4K  ",
@@ -1705,6 +1697,14 @@
       "name": "🍎哔哩🔹直播",
       "type": 3,
       "api": "./lib/哔哩直播.py"
+    },
+	   {
+      "key": "官源",
+      "name": "🍎官采🔹资源",
+      "type": 1,
+      "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
     },
 	   {
       "key": "drpy_js_360影视",
