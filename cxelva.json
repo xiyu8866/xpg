@@ -123,7 +123,7 @@
         "播放链接": "href=\"&&\"",
         "播放标题": ">&&</",
         "线路数组": "class=\"play-source-tab\"&&div>",
-        "线路标题": "🍎小苹果",
+        "线路标题": "🍎小苹果影视",
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$dy#剧集$juji#动漫$dongman#综艺$zongyi"
