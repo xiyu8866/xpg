@@ -1,12 +1,12 @@
 {
   "spider": "./xpg.php;md5;dd0769a6fd6d12b2010adcd8fb87f0bd",
-   "notice": "🍎小苹果影视提醒：不要外传!",
+   "notice": "🍎欢迎使用小苹果影视 授权成功!",
   "logo": "https://d.kstore.dev/download/6474/tvbox/img/v0.png",
   "warningText": "🍎小苹果影视提示：📢亲戚朋友试用，不要外传！",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🍎小苹果影视  全新源码  播放选4K  直播速度快  更新5.24！",
+      "name": "🍎小苹果影视  全新源码  播放选4K  直播速度快  更新5.28！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
