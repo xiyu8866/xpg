@@ -168,17 +168,6 @@
       "api": "csp_App3Q"
     },
 	      {
-      "key": "云播",
-      "name": "🍎云播🔹APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "http://app.hktvyb.cc"
-      }
-    },
-	      {
       "key": "橙子99",
       "name": "🍎橙子🔹APP",
       "type": 3,
