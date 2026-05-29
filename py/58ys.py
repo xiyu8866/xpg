@@ -149,7 +149,7 @@ class Spider(Spider):
         for ep in episode_list:
             sources = ep.get('sources', [])
             for src in sources:
-                lang = src.get('language', '') or '默认'
+                lang = src.get('language', '') or '🍎小苹果影视'
                 if not src.get('play_url'):
                     continue
                 if lang not in from_map:
