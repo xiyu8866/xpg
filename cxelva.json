@@ -617,6 +617,16 @@
       "changeable": 0
     },
 	  {
+      "key": "58ys",
+      "name": "️​🍎58🔹影视",
+      "type": 3,
+      "api": "./py/58ys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+	  {
       "key": "华数",
       "name": "🍎华数🔹TV",
       "type": 3,
