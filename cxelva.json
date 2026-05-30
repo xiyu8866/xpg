@@ -576,17 +576,6 @@
       "changeable": 0,
       "ext": {}
     },
-	   {
-            "key": "麦田",
-            "name": "🍎麦田🔹影院",
-            "type": 3,
-            "api": "./py/麦田影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playable": 1
-        },
 	      {
       "key": "爱看剧",
       "name": "🍎看剧🔹影视",
