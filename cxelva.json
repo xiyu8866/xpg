@@ -92,7 +92,7 @@
             "key": "剧迷",
             "name": "🍎剧迷🔹4K",
             "type": 3,
-            "api": "https://pan.szfx.top/down.php/a0aba0b564b9d8115d18e78395f3091b.py",
+            "api": "./py/剧迷.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
