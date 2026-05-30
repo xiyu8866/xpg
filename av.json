@@ -13,6 +13,19 @@
             "filterable": 1,
             "changeable": 1
         },
+      {
+            "key": "风流视频",
+            "name": "🔞风流视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "直接播放": "1",
+                "分类": "日韩$1#偷拍$21#无码$22#自拍$23#巨乳$24#华人$25#嫩模$26#剧情$27#动漫$28#熟女$29#丝袜$30#欧美$32#有码$33#制服$34#口交$35#三级$31#",
+                "分类url": "https://hekody.flsp8.boats/vodtype/{cateId}-{catePg}.html"
+            }
+        },
      {
        "key": "hlxzy", 
        "name": "🔞红色", 
@@ -89,19 +102,6 @@
             "ext": "./js/4AAAA.json"
         },
             {
-            "key": "风欲熟女",
-            "name": "🔞风欲熟女",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "直接播放": "1",
-                "分类": "乱伦$1#岀轨$2#制服$4#自慰$3#偷拍$5#自拍$20#国产$21#同性$22#日韩$23#欧美$24#三极$25#动漫$26#",
-                "分类url": "https://cbx.fysn7.lat/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-            }
-        },
-            {
             "key": "七区🦅",
             "name": "🔞菠萝蜜",
             "type": 3,
@@ -162,19 +162,6 @@
                 "播放标题": ">&&</",
                 "播放链接": "href=\"&&\"",
                 "分类": "奥斯卡资源$119#野鸡资源$267#冷库资源$206#玉兔资源$302#155资源$244#国产精品$269#国产乱伦$322#日本无码$124#日本有码$123"
-            }
-        },
-            {
-            "key": "风流视频",
-            "name": "🔞风流视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "直接播放": "1",
-                "分类": "日韩$1#偷拍$21#无码$22#自拍$23#巨乳$24#华人$25#嫩模$26#剧情$27#动漫$28#熟女$29#丝袜$30#欧美$32#有码$33#制服$34#口交$35#三级$31#",
-                "分类url": "https://hekody.flsp8.boats/vodtype/{cateId}-{catePg}.html"
             }
         },
     {
@@ -356,6 +343,19 @@
                 "搜索url": "https://20260313bb-bnm.mitaoava02.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "分类url": "https://20260313bb-bnm.mitaoava02.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                 "分类": "国产无码$guochanwuma#国产口爆$yazhoukoujiao#日韩无码$rihanwuma#亚洲群交$yazhouqunjiao#国产热门$guochanremen#海边偷拍$haibiantoupai#偷情车震$touqingchezhen#污污动漫$wuwudongman#拉拉群交$lalaqunjiao#Gay群交$gayqunjiao#欧美精选$oumeijingxuan#自慰手淫$ziweishouyin#N女群欢$nnvqunhuan#美臀诱惑$meitunyouhuo#麻豆传媒$madouchuanmei#天美传媒$tianmeichuanmei#皇家华人$huangjiahuaren#精东影业$jingdongyingye#起点传媒$qidianchuanmei#"
+            }
+        },
+         {
+            "key": "风欲熟女",
+            "name": "🔞风欲熟女",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "直接播放": "1",
+                "分类": "乱伦$1#岀轨$2#制服$4#自慰$3#偷拍$5#自拍$20#国产$21#同性$22#日韩$23#欧美$24#三极$25#动漫$26#",
+                "分类url": "https://cbx.fysn7.lat/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },
     {
