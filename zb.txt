@@ -1,9 +1,10 @@
 🍎小苹果央视TV,#genre#
+CCTV1,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260530060715&Channel_ID=0116_2600037000-99000-200300220107011&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.139&SecurityKey=20260530060715&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2d02298ce027aa9998deb85a2f014f8b
+CCTV2,http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
 CCTV1,http://115.190.247.176:1111/608807420
 CCTV1,http://221.7.49.226:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260530060715&Channel_ID=0116_2600037000-99000-200300220107011&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.139&SecurityKey=20260530060715&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2d02298ce027aa9998deb85a2f014f8b
-CCTV2,http://221.7.49.226:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
 CCTV2,http://115.190.247.176:1111/631780532
 CCTV2,http://bobohome.ignorelist.com:20247/migu?id=631780532.m3u8
