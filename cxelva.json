@@ -1782,20 +1782,6 @@
       "name": "🍎融融TV直播",
       "type": 1,
       "url": "./zb.txt"
-    },
-     {
-      "name": "🍎综合直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://ds65.tv1288.xyz",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
-      "name": "🍎融融TV",
-      "type": 0,
-      "playerType": 2,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "ua": "bingcha/1.1(mianfeifenxiang)"
     }
   ],
   "headers": [
