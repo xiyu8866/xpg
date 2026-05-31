@@ -99,19 +99,6 @@
             "changeable": 1,
             "playable": 1
         },
-	   {
-            "key": "乐看",
-            "name": "🍎乐看🔹4K",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://lkvlog.cn/",
-                "dataKey": "e65144389e9361b5",
-                "dataIv": "e65144389e9361b5"
-            }
-        },
 	      {
       "key": "电影先生",
       "name": "🍎电影🔹APP",
