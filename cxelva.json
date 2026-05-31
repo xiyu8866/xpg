@@ -37,19 +37,6 @@
       "ext": "./lib/暗黑4k奇迹.js"
     },
 	      {
-      "key": "小鹿",
-      "name": "🍎小鹿🔹APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://xiaolu.pwwhu.cn",
-        "dataKey": "x5Bep6Q78VCeYnPS",
-        "dataIv": "x5Bep6Q78VCeYnPS"
-      }
-    },
-	      {
       "key": "四叶草",
       "name": "🍎幸运🔹4K",
       "type": 3,
@@ -209,6 +196,19 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
+      }
+    },
+	    {
+      "key": "小鹿",
+      "name": "🍎小鹿🔹APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://xiaolu.pwwhu.cn",
+        "dataKey": "x5Bep6Q78VCeYnPS",
+        "dataIv": "x5Bep6Q78VCeYnPS"
       }
     },
     {
