@@ -1068,7 +1068,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/狐狸君.json"
+            "ext": "./lib/狐狸君.json"
         },
     {
       "key": "七味",
