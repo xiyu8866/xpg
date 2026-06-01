@@ -36,6 +36,16 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/暗黑4k奇迹.js"
     },
+	          {
+            "key": "极影",
+            "name": "🍎极影🔹4K",
+            "type": 3,
+            "api": "./js/apiv1051AppYsV2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+        },
 	      {
       "key": "四叶草",
       "name": "🍎幸运🔹4K",
@@ -112,18 +122,6 @@
             "type": 3,
             "api": "./js/apiv121916.js",
             "ext": "./js/2400.js"
-        },
-	          {
-            "key": "好好看App",
-            "name": "🍎好看🔹App",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.lyjzedu.com/;;!",
-                "简介": "🍎小苹果影视 水印广告勿信，谨防诈骗"
-            }
         },
 	      {
       "key": "电影先生",
