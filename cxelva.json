@@ -88,6 +88,13 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
+	      {
+      "key": "农民影视",
+      "name": "🍎壹米🔹蓝光",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
 	   {
             "key": "剧迷",
             "name": "🍎剧迷🔹4K",
@@ -633,13 +640,6 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us"
-    },
-    {
-      "key": "农民影视",
-      "name": "🍎农民🔹影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
     },
 	      {
       "key": "夕云",
