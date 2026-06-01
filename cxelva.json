@@ -603,16 +603,6 @@
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },
-	   {
-      "key": "py_jieyingshi",
-      "name": "🍎Symx🔹影视",
-      "type": 3,
-      "api": "./lib/Symx.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
 	  {
       "key": "58ys",
       "name": "️​🍎58🔹影视",
@@ -623,17 +613,6 @@
       "changeable": 1,
       "filterable": 1
     },
-	  {
-      "key": "华数",
-      "name": "🍎华数🔹TV",
-      "type": 3,
-      "api": "./py/华数TV.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-     },
     {
       "key": "骚火影视",
       "name": "🍎骚火🔹影视",
@@ -656,22 +635,6 @@
         "搜索Url": "https://www.xyxy.live/index.php/vod/search.html?wd={wd}",
         "分类url": "https://www.xyxy.live/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$20#电视剧$39#综艺$47#动漫$46"
-      }
-    },
-	   {
-      "key": "茶杯狐",
-      "name": "🍎茶杯🔹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "+&&",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "标题": "+title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"
       }
     },
     {
