@@ -179,6 +179,12 @@
       "type": 3,
       "api": "./lib/fy.py"
     },
+	          {
+            "key": "Acfun4K.py",
+            "name": "🍎Acfun🔹4Kpy",
+            "type": 3,
+            "api": "./py/Acfun4K.py"
+        },
 	      {
       "key": "动漫天堂",
       "name": "🍎漫堂🔹APP",
