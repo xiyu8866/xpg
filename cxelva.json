@@ -106,6 +106,13 @@
             "changeable": 1,
             "playable": 1
         },
+	          {
+            "key": "2400部恐怖电影",
+            "name": "🍎恐怖🔹电影",
+            "type": 3,
+            "api": "./js/apiv121916.js",
+            "ext": "./js/2400.js"
+        },
 	      {
       "key": "电影先生",
       "name": "🍎电影🔹APP",
