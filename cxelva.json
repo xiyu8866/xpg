@@ -191,6 +191,23 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	     {
+      "key": "爱看剧",
+      "name": "🍎看剧🔹影视",
+      "type": 3,
+      "api": "./lib/AppToV5.py",
+      "ext": "http://43.248.117.123:4680"
+    },
+	      {
+      "key": "追剧",
+      "name": "🍎追剧🔹影视",
+      "type": 3,
+      "api": "./lib/追剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
 	      {
       "key": "荐片",
       "name": "🍎荐片🔹磁力",
@@ -595,23 +612,6 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {}
-    },
-	      {
-      "key": "爱看剧",
-      "name": "🍎看剧🔹影视",
-      "type": 3,
-      "api": "./lib/AppToV5.py",
-      "ext": "http://43.248.117.123:4680"
-    },
-	      {
-      "key": "追剧",
-      "name": "🍎追剧🔹影视",
-      "type": 3,
-      "api": "./lib/追剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
     },
 	      {
       "key": "文才影视",
