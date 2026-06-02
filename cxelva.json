@@ -1800,6 +1800,41 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "parses": [
+	  {
+  "name": "🍎融融4K-18",
+  "type": 1,
+  "url": "http://chaoqianys.top:98/api/jsonindex.php/?key=m7laXqIDapLNutffx7&url=",
+  "ext": {
+    "flag": [
+      "qq",
+      "腾讯",
+      "qiyi",
+      "爱奇艺",
+      "奇艺",
+      "youku",
+      "优酷",
+      "tucheng",
+      "sohu",
+      "搜狐",
+      "letv",
+      "乐视",
+      "mgtv",
+      "芒果",
+      "tnmb",
+      "seven",
+      "yzm",
+      "aliyun",
+      "RJuMao",
+      "bilibili",
+      "1905",
+      "xinvip",
+      "XAL",
+      "qiqi",
+      "XALS",
+      "YuMi-vip"
+    ]
+  }
+},
 	       {
       "name": "🍎融融解析",
       "type": 0,
