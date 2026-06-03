@@ -118,13 +118,6 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
-	      {
-      "key": "农民影视",
-      "name": "🍎壹米🔹蓝光",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
 	   {
             "key": "剧迷",
             "name": "🍎剧迷🔹影视",
@@ -599,6 +592,13 @@
         "dataKey": "#getapp@TMD@2025",
         "dataIv": "#getapp@TMD@2025"
       }
+    },
+	   {
+      "key": "农民影视",
+      "name": "🍎壹米🔹蓝光",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
     },
     {
       "key": "独播影视",
