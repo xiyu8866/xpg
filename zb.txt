@@ -121,6 +121,14 @@ CETV-1高清,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 早教频道,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zqjy
 
 🍎港澳臺频道,#genre#
+凤凰中文台,http://120.234.44.98:18180/TV00000000000000000008@HHZT
+凤凰资讯台,http://120.234.44.98:18180/TV00000000000000000009@HHZT
+凤凰香港台,http://120.234.44.98:18180/TV00000000000000000024@HHZT
+无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
+明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
+翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
+viutv,http://120.234.44.98:18180/TV00000000000000000037@HHZT
+viutv6,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
