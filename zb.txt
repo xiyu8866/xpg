@@ -186,8 +186,6 @@ viutv6,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-慈溪新闻综合,http://kxz.kaniptv.cn/xz/xz_eb725c696c/kds2.php?e=zjnbcx1
-慈溪民生休闲,http://kxz.kaniptv.cn/xz/xz_eb725c696c/kds2.php?e=zjnbcx2
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
