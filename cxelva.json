@@ -35,6 +35,22 @@
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
       "jar": "./a/custom_spider.jar"
     },
+	  {
+  "key": "爱影",
+  "name": "🍎问君🔹4K",
+  "type": 3,
+  "api": "csp_AppQi",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": {
+    "site": "./a/q23.txt",
+    "dataKey": "nzEqOgYk3QzHuEP8",
+    "dataIv": "nzEqOgYk3QzHuEP8",
+    "init": "initV122",
+    "search": "mineInfo",
+    "ua": "okhttp/3.10.0"
+     }
+  },
 	          {
             "key": "极影",
             "name": "🍎极影🔹4K",
