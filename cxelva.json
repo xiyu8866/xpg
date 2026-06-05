@@ -29,8 +29,8 @@
       "key": "BbkqLive",
       "type": 3,
       "api": "csp_BbkqLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
       "jar": "./a/custom_spider.jar"
