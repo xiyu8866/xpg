@@ -24,17 +24,16 @@
         "ratio": 1.597
       }
     },
-	      {
-      "key": "新腾极4k",
-      "name": "🍎融融🔹4K  ",
+	        {
+      "name": "🏆世界杯",
+      "key": "BbkqLive",
       "type": 3,
+      "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/暗黑4k奇迹.js"
+      "changeable": 0,
+      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
+      "jar": "./a/custom_spider.jar"
     },
 	          {
             "key": "极影",
