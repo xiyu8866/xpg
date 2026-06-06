@@ -55,12 +55,6 @@
             "ext": "./js/三上悠亚.json"
         },
             {
-            "key": "😸不良",
-            "name": "🔞不良AV",
-            "type": 3,
-            "api": "./js/不良.js"
-        },
-            {
             "key": "花心小妞",
             "name": "🔞AV合集",
             "type": 3,
@@ -217,36 +211,6 @@
             }
         },
             {
-            "key": "爆料记者",
-            "name": "🔞爆料记者",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://m7n8o9p0.bljz19.cc/gbook/",
-                "数组": "1click&&</div></div>",
-                "标题": "vod-txt\">*>&&<",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-                "分类url": "https://m7n8o9p0.bljz19.cc/vodtype/{cateId}/page/{catePg}.html;;z",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/vodtype/&&.html"
-            }
-        },
-    {
-        "key":"vnzyz.com",
-        "name":"🔞越南直连",
-        "type":1,
-        "api":"https://vnzyz.com/api.php/provide/vod/?ac=list",
-        "searchable":1,
-        "filterable":1
-        },
-            {
             "key": "九九逍遥",
             "name": "🔞各国AV",
             "type": 3,
@@ -291,7 +255,7 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.js",
       "ext": "./lib/zbzdb.json"
     },
-         {"key": "ddzy", "name": "🔞滴滴", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+        
      {
             "key": "美美影视资源",
             "name": "🔞apidanaizix",
@@ -342,7 +306,7 @@
                 "搜索模式": "1",
                 "搜索url": "https://20260605bb-bnm.avriri01.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
                 "分类url": "https://20260605bb-bnm.avriri01.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "国产无码$guochanjingxuan#国产口爆$yazhoukoujiao#日韩无码$rihanwuma#亚洲群交$yazhouqunjiao#国产热门$guochanremen#海边偷拍$haibiantoupai#偷情车震$touqingchezhen#污污动漫$wuwudongman#拉拉群交$lalaqunjiao#Gay群交$gayqunjiao#欧美精选$oumeijingxuan#自慰手淫$ziweishouyin#N女群欢$nnvqunhuan#美臀诱惑$meitunyouhuo#麻豆传媒$madouchuanmei#天美传媒$tianmeichuanmei#皇家华人$huangjiahuaren#精东影业$jingdongyingye#起点传媒$qidianchuanmei#"
+                "分类": "国产无码$guochanjingxuan#国产口爆$yazhoukoujiao#日韩无码$rihanwuma#阳台自拍$yangtaizipai#国产热门$yazhouqunjiao#海边偷拍$haibiantoupai#偷情车震$touqingchezhen#污污动漫$wuwudongman#拉拉群交$lalaqunjiao#Gay群交$gayqunjiao#欧美精选$oumeijingxuan#自慰手淫$ziweishouyin#N女群欢$nnvqunhuan#美臀诱惑$meitunyouhuo#麻豆传媒$madouchuanmei#天美传媒$tianmeichuanmei#皇家华人$huangjiahuaren#精东影业$jingdongyingye#起点传媒$qidianchuanmei#"
             }
         },
          {
@@ -358,6 +322,34 @@
                 "分类url": "https://cbx.fysn7.lat/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },
+                {
+            "key": "😸不良",
+            "name": "🔞不良AV-翻墙",
+            "type": 3,
+            "api": "./js/不良.js"
+        },
+     {
+            "key": "爆料记者",
+            "name": "🔞爆料记者-翻墙",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m7n8o9p0.bljz19.cc/gbook/",
+                "数组": "1click&&</div></div>",
+                "标题": "vod-txt\">*>&&<",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类url": "https://m7n8o9p0.bljz19.cc/vodtype/{cateId}/page/{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
     {
       "key": "07b96ce7-0791-5f19-9321-ba6085145eef",
       "name": "🔞91麻豆-翻墙",
@@ -367,6 +359,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+     {"key": "ddzy", "name": "🔞滴滴-翻墙", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+     {
+        "key":"vnzyz.com",
+        "name":"🔞越南直连-翻墙",
+        "type":1,
+        "api":"https://vnzyz.com/api.php/provide/vod/?ac=list",
+        "searchable":1,
+        "filterable":1
+        },
             {
         "key":"19q.cc",
         "name":"🔞麻豆-翻墙",
