@@ -77,10 +77,12 @@ class Spider(Spider):
         result = {}
         classes = [
             {'type_id': '/index.php/vod/type/id/37.html', 'type_name': '国产AV'},
+             {'type_id': '/index.php/vod/type/id/2.html', 'type_name': '五区'}
             {'type_id': '/index.php/vod/type/id/43.html', 'type_name': '探花AV'},
             {'type_id': '/index.php/vod/type/id/40.html', 'type_name': '网黄UP主'},
             {'type_id': '/index.php/vod/type/id/49.html', 'type_name': '绿帽淫妻'},
             {'type_id': '/index.php/vod/type/id/44.html', 'type_name': '国产传媒'},
+            {'type_id': '/index.php/vod/type/id/47.html', 'type_name': '日本AV'}
             {'type_id': '/index.php/vod/type/id/41.html', 'type_name': '福利姬'},
             {'type_id': '/index.php/vod/type/id/39.html', 'type_name': '字幕'},
             {'type_id': '/index.php/vod/type/id/45.html', 'type_name': '水果派'},
