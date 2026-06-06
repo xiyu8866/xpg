@@ -78,6 +78,7 @@ class Spider(Spider):
         classes = [
             {'type_id': '/index.php/vod/type/id/37.html', 'type_name': '国产AV'},
             {'type_id': '/index.php/vod/type/id/43.html', 'type_name': '探花AV'},
+            {'type_id': '/index.php/vod/type/id/25.html', 'type_name': 'P站'},
             {'type_id': '/index.php/vod/type/id/40.html', 'type_name': '网黄UP主'},
             {'type_id': '/index.php/vod/type/id/49.html', 'type_name': '绿帽淫妻'},
             {'type_id': '/index.php/vod/type/id/44.html', 'type_name': '国产传媒'},
