@@ -132,10 +132,6 @@ viutv6,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-东森洋片,https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
-东森戏剧,https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 东森综合2,http://iptv.4666888.xyz/iptv2A.php?id=58
 八度空间,http://cdn6.163189.xyz/163189/8tv
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
