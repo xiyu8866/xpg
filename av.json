@@ -14,6 +14,15 @@
             "filterable": 1,
             "ext": "./js/高清SEX国产.js"
         },
+	  	          {
+            "key": "XMVideo",
+            "name": "🔞熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "./a/182.jar"
+        },
      {
       "key": "csp_黄色仓库1",
       "name": "🔞私人专属",
