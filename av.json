@@ -14,6 +14,16 @@
             "jar": "./a/182.jar"
         },
 	   {
+            "key": "推特",
+            "name": "🔞推特",
+            "type": 3,
+            "api": "./js/推特APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+	   {
             "key": "✨高清SEX国产",
             "name": "🔞高清SEX国产",
             "type": 3,
@@ -46,16 +56,6 @@
                 "分类": "日韩$1#偷拍$21#无码$22#自拍$23#巨乳$24#华人$25#嫩模$26#剧情$27#动漫$28#熟女$29#丝袜$30#欧美$32#有码$33#制服$34#口交$35#三级$31#",
                 "分类url": "https://hekody.flsp8.boats/vodtype/{cateId}-{catePg}.html"
             }
-        },
-      {
-            "key": "推特",
-            "name": "🔞推特",
-            "type": 3,
-            "api": "./js/推特APP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
 	    {
             "key": "JAV36",
