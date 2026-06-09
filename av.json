@@ -378,56 +378,6 @@
             "filterable": 1,
             "ext": "./a/公子别走.json"
         },
-		{
-            "key": "魔法少女",
-            "name": "🔞魔法少女",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "作者": "魔法少女",
-                "站名": "",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://618970.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "香蕉精品$13#动漫中字$53#日本无码$52#中文字幕$33#国产自拍$32",
-                "数组": "vodbox\"&&</a>",
-                "标题": "&&",
-                "图片": "data-original=\"&&\"",
-                "链接": "?v=&&\\&",
-                "嗅探词": ".m3u8",
-                "直接播放": 1,
-                "搜索url": "https://618970.xyz/index.php/vod/type/id/2/wd/{wd}/page/{pg}.html"
-            }
-        },
-		 {
-            "key": "Aress",
-            "name": "🔞Aress",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./a/Aress.json"
-        },
-		 {
-            "key": "69超级影院",
-            "name": "🔞超级影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./a/69超级影院.json"
-        },
 		        {
             "key": "超级精品",
             "name": "🔞超级精品",
@@ -460,15 +410,6 @@
             "searchable": 1,
             "changeable": 0
         },
-		{
-            "key": "XMVideo",
-            "name": "🔞熊猫视频",
-            "type": 3,
-            "api": "csp_XMVideo",
-            "searchable": 1,
-            "filterable": 1,
-            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-        },
 		        {
             "key": "七色谷",
             "name": "🔞七色谷",
@@ -494,28 +435,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./a/魔法少女.json"
-        },
- {
-            "key": "自排偷拍",
-            "name": "🔞自排偷拍",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./a/自排偷拍.json"
-        },
-		 {
-            "key": "美人吹箫",
-            "name": "🔞美人吹箫",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./a/美人吹箫.json"
         },
 		        {
             "key": "偷拍自拍",
