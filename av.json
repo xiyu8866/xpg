@@ -352,6 +352,333 @@
                 "分类": "国产无码$guochanjingxuan#国产口爆$yazhoukoujiao#日韩无码$rihanwuma#阳台自拍$yangtaizipai#国产热门$yazhouqunjiao#海边偷拍$haibiantoupai#偷情车震$touqingchezhen#污污动漫$wuwudongman#拉拉群交$lalaqunjiao#Gay群交$gayqunjiao#欧美精选$oumeijingxuan#自慰手淫$ziweishouyin#N女群欢$nnvqunhuan#美臀诱惑$meitunyouhuo#麻豆传媒$madouchuanmei#天美传媒$tianmeichuanmei#皇家华人$huangjiahuaren#精东影业$jingdongyingye#起点传媒$qidianchuanmei#"
             }
         },
+	          {
+            "key": "桃花",
+            "name": "🔞桃花",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/桃花.json"
+        },
+		        {
+            "key": "公子别走",
+            "name": "🔞公子别走",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/公子别走.json"
+        },
+		{
+            "key": "魔法少女",
+            "name": "🔞魔法少女",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "魔法少女",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://618970.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "香蕉精品$13#动漫中字$53#日本无码$52#中文字幕$33#国产自拍$32",
+                "数组": "vodbox\"&&</a>",
+                "标题": "&&",
+                "图片": "data-original=\"&&\"",
+                "链接": "?v=&&\\&",
+                "嗅探词": ".m3u8",
+                "直接播放": 1,
+                "搜索url": "https://618970.xyz/index.php/vod/type/id/2/wd/{wd}/page/{pg}.html"
+            }
+        },
+		 {
+            "key": "Aress",
+            "name": "🔞Aress",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/Aress.json"
+        },
+		 {
+            "key": "69超级影院",
+            "name": "🔞超级影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/69超级影院.json"
+        },
+		        {
+            "key": "超级精品",
+            "name": "🔞超级精品",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/超级精品.json"
+        },
+        {
+            "key": "小红薯APP.py",
+            "name": "🔞小红薯APP.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./a/小红薯APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+		 {
+            "key": "色播",
+            "name": "🔞色播直播",
+            "type": 3,
+            "api": "./a/apiv2134色播.js",
+            "searchable": 1,
+            "changeable": 0
+        },
+		{
+            "key": "XMVideo",
+            "name": "🔞熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+        },
+		        {
+            "key": "七色谷",
+            "name": "🔞七色谷",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/七色谷.json"
+        },
+		        {
+            "key": "魔法少女",
+            "name": "🔞魔法少女1",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "style": {
+                "ratio": 1.43
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/魔法少女.json"
+        },
+ {
+            "key": "自排偷拍",
+            "name": "🔞自排偷拍",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/自排偷拍.json"
+        },
+		 {
+            "key": "美人吹箫",
+            "name": "🔞美人吹箫",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/美人吹箫.json"
+        },
+		        {
+            "key": "偷拍自拍",
+            "name": "🔞偷拍自拍",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/偷拍自拍.json"
+        },
+		{
+            "key": "成鸡思汉",
+            "name": "🔞成鸡思汉",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/成鸡思汉.json"
+        },
+		{
+            "key": "麻豆",
+            "name": "🔞麻豆👊",
+            "type": 3,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "style": {
+                "ratio": 1.7
+            },
+            "ext": {
+                "发布url": "www.njav.sbs",
+                "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类": "日本视频$1#麻豆视频$2#国产视频$3",
+                "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+                "直接播放": "1"
+            }
+        },
+		 {
+            "key": "55视频",
+            "name": "🔞55视频",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/55视频.json"
+        },
+		 {
+            "key": "一个纯粹的x站",
+            "name": "🔞纯粹的x站",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/一个纯粹的x站.json"
+        },
+ {
+            "key": "经典三部曲",
+"name": "🔞经典三部曲",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+      "style": {
+        "ratio": 1.43
+      },
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./a/经典三部曲.json"},
+{
+            "key": "py_kemono优化",
+            "name": "🔞kemon",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./a/kemon.py",
+            "order_num": 5,
+            "ext": ""
+        },
+		{
+            "key": "✨椰子蛋✨",
+            "name": "🔞椰子蛋",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/椰子蛋.json"
+        },
+		 {
+            "key": "✨盲盒✨",
+            "name": "🔞盲盒",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/盲盒.json"
+        },
+		 {
+            "key": "✨凡人✨",
+            "name": "🔞凡人修色传",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/凡人修色传.json"
+        },
+		{
+            "key": "✨P站✨",
+            "name": "🔞P站搬运工",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/P站搬运工.json"
+        },
+		 {
+            "key": "APP",
+            "name": "🔞佬通用视频",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./a/E佬通用视频.py",
+            "order_num": 5,
+            "ext": ""
+        },
+		 {
+            "key": "精工厂",
+            "name": "🔞精工厂",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./a/精工厂.json"
+        },
+		        {
+            "key": "fullhd.py",
+            "name": "🔞fullhd.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./a/fullhd.py",
+            "order_num": 5,
+            "ext": ""
+        }, 
          {
             "key": "风欲熟女",
             "name": "🔞风欲熟女-翻墙",
