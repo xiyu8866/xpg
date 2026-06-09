@@ -120,6 +120,16 @@
             "filterable": 1,
             "changeable": 1
         },
+	    {
+            "key": "JAV36",
+            "name": "🔞JAV36",
+            "type": 3,
+            "api": "./py/高清仓库.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
       {
             "key": "风流视频",
             "name": "🔞风流视频",
