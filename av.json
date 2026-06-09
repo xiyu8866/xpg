@@ -554,17 +554,6 @@
             "filterable": 1,
             "ext": "./a/凡人修色传.json"
         },
-		{
-            "key": "✨P站✨",
-            "name": "🔞P站搬运工",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./a/P站搬运工.json"
-        },
 		 {
             "key": "APP",
             "name": "🔞佬通用视频",
