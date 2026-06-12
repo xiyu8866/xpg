@@ -1554,21 +1554,6 @@
       "filterable": 1,
       "genre": "shortdrama"
     },
-{
-    "key": "花生短剧",
-    "name": "🍎花生🔹短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    
-    "ext": {
-        "简介": "温馨提示水印广告勿信，谨防诈骗！+&&</div>",  
-        "分类url": "https://www.thyilian.com/hsertp/{cateId}/page/{catePg}.html"
-       "分类": "短剧$30#电影$1#剧集$2#动漫$4#综艺$3"
-    }
-},
     {
       "key": "星芽短剧",
       "name": "🍎星芽🔹短剧",
