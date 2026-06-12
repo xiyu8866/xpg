@@ -24,17 +24,6 @@
         "ratio": 1.597
       }
     },
-	        {
-      "name": "🏆世界🔹杯",
-      "key": "BbkqLive",
-      "type": 3,
-      "api": "csp_BbkqLiveAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "./a/custom_spider.jar"
-    },
 	          {
             "key": "极影",
             "name": "🍎极影🔹4K",
