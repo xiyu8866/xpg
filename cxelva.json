@@ -77,31 +77,6 @@
       }
     },
 	          {
-            "key": "csp_栖遥",
-            "name": "🍎栖遥🔹4K",
-            "type": 3,
-            "api": "./a/AppGet_2.js",
-            "ext": {
-                "host": "http://110.42.67.221:9002/",
-                "key": "FTgP4Gq8zPiqbt7M",
-                "类型": "APP",
-                "api": 2
-            }
-        },
-	          {
-            "key": "星空",
-            "name": "🍎星空🔹4K",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://xk99.xkgzs.xyz",
-                "dataKey": "106jkcdnkldzckjk",
-                "dataIv": "106jkcdnkldzckjk"
-            }
-        },
-	          {
             "key": "葫芦get",
             "name": "🍎葫芦🔹4K",
             "type": 3,
@@ -115,6 +90,12 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
+	      {
+      "key": "三秋影视",
+      "name": "🍎三秋🔹4K",
+      "type": 3,
+      "api": "csp_App3Q"
+    },
 	    {
   "key": "爱影",
   "name": "🍎问君🔹蓝光",
@@ -281,12 +262,6 @@
         "dataKey": "x5Bep6Q78VCeYnPS",
         "dataIv": "x5Bep6Q78VCeYnPS"
       }
-    },
-    {
-      "key": "三秋影视",
-      "name": "🍎三秋🔹APP",
-      "type": 3,
-      "api": "csp_App3Q"
     },
 	      {
       "key": "橙子99",
