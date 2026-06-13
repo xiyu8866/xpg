@@ -232,13 +232,6 @@
       "api": "csp_JianPian",
       "type": 3
     },
-	      {
-      "key": "橘子py",
-      "name": "🍎蔡蔡🔹影视",
-      "type": 3,
-      "api": "./lib/jd4k.py",
-      "ext": "https://dmc.yy-fun.cc/feiapp"
-    },
         {
             "key": "界影视",
             "name": "🍎界影🔹影视",
@@ -250,25 +243,6 @@
       "name": "🍎枫叶🔹影视",
       "type": 3,
       "api": "./lib/fy.py"
-    },
-	          {
-            "key": "Acfun4K.py",
-            "name": "🍎Acfun🔹4Kpy",
-            "type": 3,
-            "api": "./py/Acfun4K.py"
-        },
-	      {
-      "key": "动漫天堂",
-      "name": "🍎漫堂🔹APP",
-      "type": 3,
-      "api": "./lib/get.js",
-      "ext": {
-        "host": "./lib/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
     },
 	    {
       "key": "小鹿",
@@ -1288,6 +1262,25 @@
         "伦理片"
             ]
         },
+	    {
+            "key": "Acfun4K.py",
+            "name": "🍎Acfun🔹py",
+            "type": 3,
+            "api": "./py/Acfun4K.py"
+        },
+	      {
+      "key": "动漫天堂",
+      "name": "🍎漫堂🔹APP",
+      "type": 3,
+      "api": "./lib/get.js",
+      "ext": {
+        "host": "./lib/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
     {
       "key": "哆啦新番社",
       "name": "🍎哆啦🔹番社",
