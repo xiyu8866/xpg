@@ -719,7 +719,7 @@
         "主页url": "http://www.pbpbt.com/",
         "首页": "120",
         "起始页": "1",
-        "分类url": "/class/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html;;mrc",
+        "分类url": "/sort/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html;;mrc",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "二次截取": "",
         "数组": "lazyload\"&&</a",
@@ -773,13 +773,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/永乐影视.json"
-    },
-    {
-      "key": "剧圈影视",
-      "name": "🍎剧圈🔹影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "./lib/剧圈影视.json"
     },
     {
       "key": "1905",
