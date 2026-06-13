@@ -132,35 +132,6 @@
     "ua": "okhttp/3.10.0"
      }
   },
-	   {
-            "key": "剧迷",
-            "name": "🍎剧迷🔹影视",
-            "type": 3,
-            "api": "./py/剧迷.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playable": 1
-        },
-	          {
-            "key": "2400部恐怖电影",
-            "name": "🍎恐怖🔹电影",
-            "type": 3,
-            "api": "./js/apiv121916.js",
-            "ext": "./js/2400.js"
-        },
-	    {
-            "key": "spider_2054142162412507137",
-            "name": "🍎歪比🔹蓝光",
-            "type": 4,
-            "api": "http://115.191.55.109:7023/api/tvbox/source/2054142162412507137?token=phcB9KDg6dzm8lNH5uG67q5BXdf0X3dR",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "playable": 1
-        },
 	      {
       "key": "电影先生",
       "name": "🍎电影🔹APP",
@@ -215,16 +186,6 @@
       "type": 3,
       "api": "./lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680"
-    },
-	      {
-      "key": "追剧",
-      "name": "🍎追剧🔹影视",
-      "type": 3,
-      "api": "./lib/追剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
     },
 	      {
       "key": "荐片",
@@ -603,6 +564,13 @@
       "changeable": 0,
       "ext": {}
     },
+	     {
+            "key": "2400部恐怖电影",
+            "name": "🍎恐怖🔹电影",
+            "type": 3,
+            "api": "./js/apiv121916.js",
+            "ext": "./js/2400.js"
+        },
 	      {
       "key": "文才影视",
       "name": "🍎文才🔹影视",
