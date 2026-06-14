@@ -17,7 +17,7 @@
       "type": 3,
       "searchable": 0,
       "changeable": 0,
-      "api": "./lib/zbzdb.js",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.js",
       "ext": "./rrzb.json"
     },
 	    {
