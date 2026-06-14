@@ -11,18 +11,14 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	 {
-      "key": "配置中心",
-      "name": "🍎云盘🔹配置",
+	  {
+      "key": "裤佬电视直播",
+      "name": "🍎融融🔹直播",
       "type": 3,
-      "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "api": "./lib/zbzdb.js",
+      "ext": "./rrzb.json"
     },
 	    {
       "key": "世界杯直播",
