@@ -127,6 +127,16 @@
                 "dataIv": "8R33VQSxzmCaHpEX"
             }
         },
+	      {
+      "key": "快映",
+      "name": "🍎快映🔹4K",
+      "type": 3,
+      "api": "./lib/Appfox.js",
+      "ext": {
+        "host": "https://www.baidukuaiy.top",
+        "ver": 3
+      }
+    },
 	  {
       "key": "独家免扫4K",
       "name": "🍎独家🔹免扫",
