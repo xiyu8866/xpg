@@ -31,6 +31,13 @@
       "api": "https://sports.jsnzkpg.ccwu.cc"
     },
 	   {
+      "key": "藤藤",
+      "name": "🍎藤藤🔹4K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/藤藤.png"
+    },
+	   {
       "key": "苹果",
       "name": "🍎苹果🔹4K",
       "type": 3,
